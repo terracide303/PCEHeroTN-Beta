@@ -49,3 +49,8 @@ Two players: plug in a second USB pad.
 - A few games do not start yet, for example Raiden (US) and Cadash (US).
 - HuCards only. No CD-ROM games and no SuperGrafx.
 - The Pico firmware has no WiFi or Bluetooth. Use wired USB pads.
+
+## Credits
+
+This builds on the work of Torlus, the MiSTer and MiST teams, Till Harbaum, MiSTle-Dev and others.
+See [CREDITS.md](CREDITS.md).
