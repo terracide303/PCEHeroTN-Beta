@@ -19,6 +19,8 @@ PCEHeroTN is built on the work of many people. Thank you all.
 
 `fpga_companion_msp20k_nowifi.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, built with WiFi and Bluetooth switched off so it fits the RP2040. The only change is one line, in [this fork](https://github.com/terracide303/FPGA-Companion/tree/msp20k-rp2040-fit-no-wifi). Apache 2.0.
 
+`gamepad-setup/fpga_companion_dev_gamepad_setup.uf2` is the same firmware with the gamepad setup added, from the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of that fork. Apache 2.0.
+
 ## Hardware
 
 - **Sipeed** for the Tang Nano 20K.

@@ -50,6 +50,15 @@ Two players: plug in a second USB pad.
 - HuCards only. No CD-ROM games and no SuperGrafx.
 - The Pico firmware has no WiFi or Bluetooth. Use wired USB pads.
 
+## Gamepad does not work?
+
+The folder [`gamepad-setup`](gamepad-setup) has a test version of the Pico
+firmware that lets you set up your gamepad button by button from the F12 menu.
+It is not part of the normal release: it adds entries to every core's menu and
+uses PC Engine button names, which goes against the idea of one neutral
+firmware for all cores. It is only for beta testers who do not have a working
+controller. See [its README](gamepad-setup/README.md).
+
 ## Credits
 
 This builds on the work of Torlus, the MiSTer and MiST teams, Till Harbaum, MiSTle-Dev and others.
