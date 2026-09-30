@@ -13,8 +13,8 @@ bottom of the F12 menu:
 - **Remove Gamepad Setup**: press a button on the pad and its setup is
   deleted. The pad goes back to working the normal way.
 
-The setup is saved in the Pico itself, per gamepad model. It stays after you
-power off.
+The setup is saved in the Pico itself, per gamepad model (up to 4 models). It
+stays after you power off.
 
 ## Install
 
