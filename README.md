@@ -11,29 +11,11 @@ PC Engine / TurboGrafx-16 for the Tang Nano 20K.
 ## What you need
 
 - Tang Nano 20K
-- A Raspberry Pi Pico (RP2040): on a MiSTeryShield20k, or wired to the Tang on a breadboard (see below)
+- A Raspberry Pi Pico (RP2040): on a MiSTeryShield20k, or wired to the Tang on a breadboard
+  as shown in the [FPGA-Companion wiring guide](https://github.com/MiSTle-Dev/FPGA-Companion/tree/main/src/rp2040#example-wiring)
 - A micro SD card (FAT32)
 - One or two USB gamepads, and a USB keyboard for the menu
 - HDMI screen
-
-### Breadboard instead of the shield
-
-Wire the Pico to the Tang Nano like this:
-
-| Tang Nano 20K pin | Signal | Pico pin |
-|---|---|---|
-| 42 | MISO | GP16 |
-| 41 | MOSI | GP19 |
-| 56 | CSN | GP17 |
-| 54 | SCK | GP18 |
-| 51 | IRQ | GP22 |
-| 5V | power | VBUS |
-| GND | ground | GND |
-
-The gamepads plug into a USB-A socket on the Pico: D+ to GP2, D- to GP3,
-VBUS to the Pico's VBUS and GND to GND. For a keyboard and two pads on one
-socket, use a small USB hub. A picture of this setup is in the
-[FPGA-Companion wiring guide](https://github.com/MiSTle-Dev/FPGA-Companion/tree/main/src/rp2040#example-wiring).
 
 ## Files
 
