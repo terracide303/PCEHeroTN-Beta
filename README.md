@@ -2,6 +2,12 @@
 
 PC Engine / TurboGrafx-16 for the Tang Nano 20K.
 
+<p align="center">
+  <img src="images/raiden.jpg" width="49%" alt="Raiden title screen">
+  <img src="images/salamander.jpg" width="49%" alt="Salamander title screen">
+</p>
+<p align="center"><i>Raiden and Salamander on a Tang Nano 20K, photographed from the TV.</i></p>
+
 ## What you need
 
 - Tang Nano 20K
