@@ -46,7 +46,7 @@ Two players: plug in a second USB pad.
 
 ## Known issues
 
-- A few games do not start yet, for example Raiden (US) and Cadash (US).
+- A few games do not start yet, for example Street Fighter II.
 - HuCards only. No CD-ROM games and no SuperGrafx.
 - The Pico firmware has no WiFi or Bluetooth. Use wired USB pads.
 
