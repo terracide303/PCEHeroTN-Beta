@@ -37,7 +37,8 @@ Plug a USB-C OTG adapter into the Tang, then a USB hub, then the pads (and a key
 if you like). **S1** opens the menu.
 
 If your pad does not work in the menu, run **Setup Gamepad** at the bottom of the menu.
-It is lost when you power off, for now.
+That setup is lost when you power off, so run it again after each power-up. Saving it
+comes in a later version. Pads that work without setup are not affected.
 
 ## Going back
 

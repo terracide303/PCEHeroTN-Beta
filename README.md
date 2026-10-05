@@ -104,7 +104,8 @@ not get darker. Games run the same with it on or off.
 - HuCards only. No CD-ROM games and no SuperGrafx.
 - Switching Scanlines moves the picture 2 lines up or down.
 - With no SD card in the slot, choosing the SD card in the menu hangs the menu.
-- On the Tang's own chip, the gamepad setup is lost when you power off.
+- Only if you set up a gamepad yourself with *Setup Gamepad*: on the BL616 (no Pico)
+  that setup is lost when you power off. Pads that work without setup are not affected.
 
 ## Gamepad does not work?
 
@@ -112,7 +113,8 @@ Use **Setup Gamepad** at the bottom of the menu, and press each button it asks f
 ESC on the keyboard skips one. The PC Engine only needs the first 8.
 **Remove Gamepad Setup** puts a pad back to normal.
 
-On the Pico the setup is kept after power-off. On the Tang's own chip it is lost, for now.
+On the Pico the setup is kept after power-off. On the BL616 (no Pico) it is lost when you
+power off, so run Setup Gamepad again after each power-up. Saving it comes in a later version.
 
 ## Credits
 
