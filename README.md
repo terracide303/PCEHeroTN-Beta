@@ -92,6 +92,19 @@ Two players: plug in a second USB pad.
 - **S1**: opens the menu (same as F12)
 - **S2**: Run (start), for player 1
 
+## DB9 joystick
+
+On the MiSTeryShield20k you can plug a classic DB9 joystick (Atari / Amiga style) into
+its DB9 port. It works as player 1, together with a USB pad.
+
+- Stick: up, down, left, right
+- **Fire 1**: button I
+- **Fire 2**: button II
+
+These joysticks have no Run (start) button. Press **S2** on the Tang to start the game.
+
+Please tell us if both fire buttons work for you.
+
 ## Scanlines
 
 <p align="center">
