@@ -7,6 +7,7 @@ PCEHeroTN is built on the work of many people. Thank you all.
 - **Gregory Estrade (Torlus)**: [FPGAPCE](https://github.com/Torlus/FPGAPCE), the original PC Engine in an FPGA that all of this comes from.
 - **The MiSTer TurboGrafx16 core** ([MiSTer-devel/TurboGrafx16_MiSTer](https://github.com/MiSTer-devel/TurboGrafx16_MiSTer)): Sorgelig (MiSTer port), srg320 (the rewritten HuC6280 CPU and more), greyrogue, Kitrinx and dshadoff. We use its CPU, sound chip and clock logic.
 - **The MiST TurboGrafx16 core** ([mist-devel/TurboGrafx16_FPGA](https://github.com/mist-devel/TurboGrafx16_FPGA)): the MiST developers. We use its video chips (VDC and VCE) and the top level.
+- **Alastair M. Robinson ([robinsonb5](https://github.com/robinsonb5))**: his PC Engine SDRAM controller for MiST and his write-ups on [retroramblings.net](https://retroramblings.net/?p=1635) showed us how to feed the PC Engine fast enough from SDRAM on this kind of board.
 
 ## Borrowed parts
 
