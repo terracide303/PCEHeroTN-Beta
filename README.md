@@ -87,6 +87,11 @@ go to the `PCE` folder and choose a game.
 
 Two players: plug in a second USB pad.
 
+## Buttons on the Tang
+
+- **S1**: opens the menu (same as F12)
+- **S2**: Run (start), for player 1
+
 ## Scanlines
 
 <p align="center">
@@ -106,7 +111,7 @@ Menu → **Controller: 2 Turbo**. Then:
 - **Y**: turbo II (slow)
 - **L**: turbo I (fast)
 - **R**: turbo II (fast)
-- **A / B**: normal I and II, no turbo
+- Your normal **I** and **II** buttons: no turbo
 
 Works on both pads. If turbo does nothing, use **Setup Gamepad** and set the buttons
 it calls Button III, Button IV, L and R.
