@@ -18,7 +18,7 @@ PCEHeroTN is built on the work of many people. Thank you all.
 
 ## Pico firmware
 
-`fpga_companion_msp20k_gamepad_setup.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, with WiFi and Bluetooth switched off so it fits the RP2040, and the gamepad setup added. From the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of our fork. Apache 2.0.
+`fpga_companion_msp20k_gamepad_setup.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, built for the RP2040 with the gamepad setup added. From the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of our fork. Apache 2.0.
 
 ## BL616 firmware
 

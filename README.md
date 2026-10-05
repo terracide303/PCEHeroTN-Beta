@@ -105,7 +105,6 @@ not get darker. Games run the same with it on or off.
 - Switching Scanlines moves the picture 2 lines up or down.
 - With no SD card in the slot, choosing the SD card in the menu hangs the menu.
 - On the Tang's own chip, the gamepad setup is lost when you power off.
-- The Pico firmware has no WiFi or Bluetooth. Use wired USB pads.
 
 ## Gamepad does not work?
 
