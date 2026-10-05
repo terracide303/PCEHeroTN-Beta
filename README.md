@@ -109,6 +109,10 @@ not get darker. Games run the same with it on or off.
 
 ## Gamepad does not work?
 
+The Pico and BL616 firmware in this repo are **our own custom builds** with an extra
+**Setup Gamepad** menu. This breaks the idea of one neutral firmware for all cores (it
+adds PC Engine button names to every core's menu), so it is **meant for beta testing only**.
+
 Use **Setup Gamepad** at the bottom of the menu, and press each button it asks for.
 ESC on the keyboard skips one. The PC Engine only needs the first 8.
 **Remove Gamepad Setup** puts a pad back to normal.
