@@ -1,9 +1,12 @@
 # What changed from RC1 to RC2
 
+> **RC2 is paused** while we fix a bug we found (graphics glitches in some games).
+> This is what it will bring.
+
 ## New
 
 - **Runs on just the Tang Nano.** No Pico, no shield, no keyboard needed. The board's own
-  BL616 chip runs the menu. See [bl616](bl616/README.md).
+  BL616 chip runs the menu.
 - **S1 opens the menu**, like F12.
 - **Scanlines:** menu → Scanlines: Off / CRT-Lite. Looks like an old CRT TV.
 - **Turbo:** menu → Controller: 2 Turbo. Pad buttons 3 and 4 are turbo I and II,
