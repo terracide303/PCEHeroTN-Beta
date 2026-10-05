@@ -14,6 +14,25 @@ the gamepad moves through it (some pads need *Setup Gamepad* once, with a keyboa
 Also new: CRT scanlines, turbo, Reset in the menu.
 All changes: [CHANGES.md](CHANGES.md).
 
+## RC1 → RC2
+
+**Added**
+- Runs on just the Tang Nano: no Pico, no shield, no keyboard needed
+- S1 button opens the menu
+- Scanlines (CRT-Lite)
+- Turbo for buttons I and II
+- Reset in the menu, and "No game" to unload a game
+- Overscan (Hidden / Visible) and Border (Original / Black) options
+- Setup Gamepad in the menu
+- Colour bars when no game is loaded
+
+**Fixed**
+- Bit-reversed US HuCards now boot, for example Cadash (U)
+- More reliable reads from the game memory
+- Games that change screen width halfway down the picture
+
+More detail: [CHANGES.md](CHANGES.md).
+
 ## What you need
 
 - Tang Nano 20K
