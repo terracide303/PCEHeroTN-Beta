@@ -17,9 +17,15 @@ PCEHeroTN is built on the work of many people. Thank you all.
 
 ## Pico firmware
 
-`fpga_companion_msp20k_nowifi.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, built with WiFi and Bluetooth switched off so it fits the RP2040. The only change is one line, in [this fork](https://github.com/terracide303/FPGA-Companion/tree/msp20k-rp2040-fit-no-wifi). Apache 2.0.
+`fpga_companion_msp20k_gamepad_setup.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, with WiFi and Bluetooth switched off so it fits the RP2040, and the gamepad setup added. From the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of our fork. Apache 2.0.
 
-`gamepad-setup/fpga_companion_dev_gamepad_setup.uf2` is the same firmware with the gamepad setup added, from the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of that fork. Apache 2.0.
+## BL616 firmware
+
+`bl616/bl616_fpga_partner_nano20k_v3923.bin` is FPGA Partner from the [FPGA-Companion v1.4.29 release](https://github.com/MiSTle-Dev/FPGA-Companion/releases/tag/v1.4.29) by Till Harbaum and MiSTle-Dev, unchanged. `bl616/fpga_companion_nano20k_v3923_gamepad_setup.bin` is FPGA-Companion for the BL616 with the gamepad setup added, from the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of our fork (commit `8742cee`). Apache 2.0.
+
+## Scanlines
+
+The CRT-Lite scanline effect is our own (PCEHeroTN / CRTLiteTN), modelled on how a CRT beam spreads.
 
 ## Hardware
 
