@@ -118,5 +118,5 @@ power off, so run Setup Gamepad again after each power-up. Saving it comes in a 
 
 ## Credits
 
-This builds on the work of Torlus, the MiSTer and MiST teams, Till Harbaum, MiSTle-Dev and others.
+This builds on the work of Torlus, the MiSTer and MiST teams, Alastair M. Robinson, Till Harbaum, MiSTle-Dev and others.
 See [CREDITS.md](CREDITS.md).
