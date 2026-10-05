@@ -98,6 +98,19 @@ Menu → **Scanlines: CRT-Lite**. It draws each line like the beam of an old CRT
 thin lines with dark gaps in dark parts, wide lines in bright parts. So the picture does
 not get darker. Games run the same with it on or off.
 
+## Turbo
+
+Menu → **Controller: 2 Turbo**. Then:
+
+- **X**: turbo I (slow)
+- **Y**: turbo II (slow)
+- **L**: turbo I (fast)
+- **R**: turbo II (fast)
+- **A / B**: normal I and II, no turbo
+
+Works on both pads. If turbo does nothing, use **Setup Gamepad** and set the buttons
+it calls Button III, Button IV, L and R.
+
 ## Known issues
 
 - A few games do not start yet, for example Street Fighter II.
