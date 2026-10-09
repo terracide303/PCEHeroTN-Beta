@@ -20,6 +20,10 @@ PCEHeroTN is built on the work of many people. Thank you all.
 
 `fpga_companion_msp20k_gamepad_setup.uf2` is [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) by Till Harbaum and MiSTle-Dev, built for the RP2040 with the gamepad setup added. From the [dev branch](https://github.com/terracide303/FPGA-Companion/tree/dev) of our fork. Apache 2.0.
 
+## Colours
+
+The Original colour table is the MiSTer TurboGrafx16 core's `palette.mif`.
+
 ## Scanlines
 
 The CRT-Lite scanline effect is our own (PCEHeroTN / CRTLiteTN), modelled on how a CRT beam spreads.
