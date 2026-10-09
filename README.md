@@ -117,6 +117,10 @@ With Scanlines on CRT-Lite, Colours has no effect: the picture always uses Raw R
 
 ## Turbo
 
+<p align="center">
+  <img src="images/gamepad_turbo.png" width="90%" alt="SNES-style USB pad with the turbo buttons marked">
+</p>
+
 Menu → **Controller: 2 Turbo**. Then:
 
 - **X**: turbo I (slow)
