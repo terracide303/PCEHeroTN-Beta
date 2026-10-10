@@ -13,7 +13,7 @@ PCEHeroTN is built on the work of many people. Thank you all.
 
 - **SDRAM controller**: Till Harbaum and Mateusz Nalewajski, from [NanoMig](https://github.com/MiSTle-Dev/NanoMig). GPL v3.
 - **On-screen menu, SD card and USB input link**: Till Harbaum and the [MiSTle-Dev](https://github.com/MiSTle-Dev) project: [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) (Apache 2.0) and the menu display from [MiSTeryNano](https://github.com/MiSTle-Dev/MiSTeryNano) (GPL v3).
-- **SD card reader**: lfantoniosi, from [WonderTANG](https://github.com/lfantoniosi/WonderTANG). BSD 2-Clause.
+- **SD card reader**: WangXuan95, [FPGA-SDcard-Reader](https://github.com/WangXuan95/FPGA-SDcard-Reader) (GPL v3), with writing added by lfantoniosi in [WonderTANG](https://github.com/lfantoniosi/WonderTANG) (BSD 2-Clause).
 - **HDMI video and sound**: Sameer Puri, [hdl-util/hdmi](https://github.com/hdl-util/hdmi). MIT / Apache 2.0.
 
 ## Pico firmware

@@ -48,6 +48,11 @@ More detail: [CHANGES.md](CHANGES.md).
 | `PCEHeroTN_RC3.fs` | The core, for the Tang Nano 20K |
 | `fpga_companion_msp20k_gamepad_setup.uf2` | Firmware for the Pico |
 | `previous/PCEHeroTN_RC1.fs` | The previous release, for reference |
+| `PCEHeroTN_RC3_source.zip` | The source code of RC3 |
+
+The source zip builds `PCEHeroTN_RC3.fs` exactly: unzip it and run
+`gw_sh build_nano.tcl` in that folder (Gowin EDA). `LICENCES.md` inside says
+which parts carry which licence.
 
 ## Install
 
