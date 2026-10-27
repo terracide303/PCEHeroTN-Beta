@@ -1,5 +1,8 @@
 # PCEHeroTN — Beta (Release Candidate 3)
 
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-%E2%98%95-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/terracide)
+*This is free and always will be: no paywall, no catch. I build it in my spare time and don't earn a cent from it. If it saved you an evening or brought your gear back to life, a coffee on [Ko-fi](https://ko-fi.com/terracide) would honestly help me a lot to keep going.*
+
 PC Engine / TurboGrafx-16 for the Tang Nano 20K.
 
 <p align="center">
