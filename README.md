@@ -1,5 +1,7 @@
 # PCEHeroTN — Beta (Release Candidate 3)
 
+[![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-FFDD00?style=flat)](https://buymeacoffee.com/terracide)
+
 PC Engine / TurboGrafx-16 for the Tang Nano 20K.
 
 <p align="center">
