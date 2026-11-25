@@ -163,3 +163,7 @@ ESC on the keyboard skips one. The PC Engine only needs the first 8.
 
 This builds on the work of Torlus, the MiSTer and MiST teams, Alastair M. Robinson, Till Harbaum, MiSTle-Dev and others.
 See [CREDITS.md](CREDITS.md).
+
+## Community and support
+
+- **Discord:** join the PC Engine FPGA community: https://discord.gg/zsYdGqHXS
